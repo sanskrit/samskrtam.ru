@@ -1,0 +1,115 @@
+@font-face {
+    font-family: Sahitya,Siddhanta,Sanskrit 2003,Santipur OT,Adobe Devanagari;;
+    src: url(./fonts/Sahitya-Regular.ttf);
+}
+
+@font-face {
+    font-family: Charis;
+    src: url(./fonts/charis-sil.ttf);
+}
+
+@font-face {
+    font-family: Charis-Italic;
+    src: url(./fonts/charis-sil-italic.ttf);
+}
+
+@font-face {
+    font-family: Charis-Bold;
+    src: url(./fonts/charis-sil-bold.ttf);
+}
+@font-face {
+    font-family: Sanskrit 2003;
+    src: url(./fonts/Sanskrit2003.ttf);
+}
+body {
+    font-size: 16pt;
+    font-family: "Charter Indologique";
+   }
+
+h1 {
+  color: #a52a2a; /* Цвет заголовка */
+  font-size: 24pt; /* Размер шрифта в пунктах */
+  font-weight: normal; /* Нормальное начертание текста  */
+}
+
+p
+{
+  line-height: 1em;
+  margin-top: 0px;
+  margin-bottom: 0px;
+
+}
+
+table {
+    /*width: 100%;  Ширина таблицы */
+    border-collapse: collapse; /*  Убираем двойные линии между ячейками */
+    table-layout: auto
+   }
+   td, th {
+    padding: 4px; /* Поля в ячейках */
+    text-align: center; /* Выравнивание */
+    /*font-size: 14pt; /* Размер текста */
+    font-style: normal;
+    padding-left: 9px;
+    /*border: 1px solid #333333;  Граница между ячейками */
+   }
+   td.addcorr {
+    background: #E0E0E0; /* Цвет фона четных строк */
+   }
+   th {
+    background: #000080; /* Цвет фона строки заголовка */
+    color: #ffe; /* Цвет текста */
+    text-align: center; /* Выравнивание */
+    /*font-size: 14pt; /* Размер текста */
+   }
+   .la {
+    text-align: left; /* Выравнивание по левому краю */
+   }
+p.sa {
+    line-height: 1.5em;
+    color: #ff2400; /* Цвет текста */
+    font-style: normal;
+    font-size: 20pt; /* Размер текста */
+    font-family: "Sanskrit 2003";
+}
+p.mhbld {
+    line-height: 1.2em;
+    font-size: 18pt; /* Размер текста */
+    font-family: "Charis-Bold";
+}
+p.mhitl {
+    line-height: 1.2em;
+    font-style: italic;
+    font-size: 16pt; /* Размер текста */
+    font-family: "Charis-Italic";
+}
+p.iast {
+    line-height: 1.2em;
+    font-weight: bold
+    font-size: 16pt; /* Размер текста */
+}
+p.hk {
+    color: gray; /* Цвет текста */
+    font-weight: bold
+    font-size: 14pt; /* Размер текста */
+}
+p.stk {
+    font-size: 18pt; /* Размер текста */
+    font-family: "Charis-Bold";
+}
+p.ann {
+    font-style: normal;
+    font-size: 16pt; /* Размер текста */
+    text-align: left;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 930px;
+}
+a.sa {
+    line-height: 1.5em;
+    font-style: normal;
+    font-size: 18pt; /* Размер текста */
+    font-family: "Sanskrit 2003";
+}

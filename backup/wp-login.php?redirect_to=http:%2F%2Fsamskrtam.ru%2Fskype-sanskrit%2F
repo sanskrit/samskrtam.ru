@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+	<html lang="ru-RU">
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Войти &lsaquo; Книги и онлайн курсы санскрита &#8212; WordPress</title>
+	<meta name='robots' content='max-image-preview:large, noindex, noarchive' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='dashicons-css'  href='http://samskrtam.ru/wp-includes/css/dashicons.min.css?ver=5.9.2' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='http://samskrtam.ru/wp-includes/css/buttons.min.css?ver=5.9.2' media='all' />
+<link rel='stylesheet' id='forms-css'  href='http://samskrtam.ru/wp-admin/css/forms.min.css?ver=5.9.2' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='http://samskrtam.ru/wp-admin/css/l10n.min.css?ver=5.9.2' media='all' />
+<link rel='stylesheet' id='login-css'  href='http://samskrtam.ru/wp-admin/css/login.min.css?ver=5.9.2' media='all' />
+<link rel='stylesheet' id='math-captcha-frontend-css'  href='http://samskrtam.ru/wp-content/plugins/wp-math-captcha/css/frontend.css?ver=5.9.2' media='all' />
+	<meta name='referrer' content='strict-origin-when-cross-origin' />
+		<meta name="viewport" content="width=device-width" />
+	<link rel="icon" href="http://samskrtam.ru/wp-content/uploads/2019/11/cropped-logo-32x32.png" sizes="32x32" />
+<link rel="icon" href="http://samskrtam.ru/wp-content/uploads/2019/11/cropped-logo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://samskrtam.ru/wp-content/uploads/2019/11/cropped-logo-180x180.png" />
+<meta name="msapplication-TileImage" content="http://samskrtam.ru/wp-content/uploads/2019/11/cropped-logo-270x270.png" />
+	</head>
+	<body class="login no-js login-action-login wp-core-ui  locale-ru-ru">
+	<script type="text/javascript">
+		document.body.className = document.body.className.replace('no-js','js');
+	</script>
+		<div id="login">
+		<h1><a href="https://ru.wordpress.org/">Сайт работает на WordPress</a></h1>
+	
+		<form name="loginform" id="loginform" action="http://samskrtam.ru/wp-login.php" method="post">
+			<p>
+				<label for="user_login">Имя пользователя или email</label>
+				<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off" />
+			</p>
+
+			<div class="user-pass-wrap">
+				<label for="user_pass">Пароль</label>
+				<div class="wp-pwd">
+					<input type="password" name="pwd" id="user_pass" class="input password-input" value="" size="20" />
+					<button type="button" class="button button-secondary wp-hide-pw hide-if-no-js" data-toggle="0" aria-label="Показать пароль">
+						<span class="dashicons dashicons-visibility" aria-hidden="true"></span>
+					</button>
+				</div>
+			</div>
+						<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"  /> <label for="rememberme">Запомнить меня</label></p>
+			<p class="submit">
+				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Войти" />
+									<input type="hidden" name="redirect_to" value="http://samskrtam.ru/skype-sanskrit/" />
+									<input type="hidden" name="testcookie" value="1" />
+			</p>
+		</form>
+
+					<p id="nav">
+								<a href="http://samskrtam.ru/my-account/lost-password/">Забыли пароль?</a>
+			</p>
+					<script type="text/javascript">
+			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
+wp_attempt_focus();
+if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
+				<p id="backtoblog">
+			<a href="http://samskrtam.ru/">&larr; Перейти к Книги и онлайн курсы санскрита</a>		</p>
+		<div class="privacy-policy-page-link"><a class="privacy-policy-link" href="http://samskrtam.ru/privacy-policy/">Политика конфиденциальности</a></div>	</div>
+				<div class="language-switcher">
+				<form id="language-switcher" action="" method="get">
+
+					<label for="language-switcher-locales">
+						<span class="dashicons dashicons-translation" aria-hidden="true"></span>
+						<span class="screen-reader-text">Язык</span>
+					</label>
+
+					<select name="wp_lang" id="language-switcher-locales"><option value="en_US" lang="en" data-installed="1">English (United States)</option>
+<option value="ru_RU" lang="ru" selected='selected' data-installed="1">Русский</option></select>
+					
+											<input type="hidden" name="redirect_to" value="http://samskrtam.ru/skype-sanskrit/" />
+					
+					
+						<input type="submit" class="button" value="Изменить">
+
+					</form>
+				</div>
+				<script src='http://samskrtam.ru/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script src='http://samskrtam.ru/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script id='zxcvbn-async-js-extra'>
+var _zxcvbnSettings = {"src":"http:\/\/samskrtam.ru\/wp-includes\/js\/zxcvbn.min.js"};
+</script>
+<script src='http://samskrtam.ru/wp-includes/js/zxcvbn-async.min.js?ver=1.0' id='zxcvbn-async-js'></script>
+<script src='http://samskrtam.ru/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9' id='regenerator-runtime-js'></script>
+<script src='http://samskrtam.ru/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script src='http://samskrtam.ru/wp-includes/js/dist/hooks.min.js?ver=1e58c8c5a32b2e97491080c5b10dc71c' id='wp-hooks-js'></script>
+<script src='http://samskrtam.ru/wp-includes/js/dist/i18n.min.js?ver=30fcecb428a0e8383d3776bcdd3a7834' id='wp-i18n-js'></script>
+<script id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id='password-strength-meter-js-extra'>
+var pwsL10n = {"unknown":"\u041d\u0430\u0434\u0451\u0436\u043d\u043e\u0441\u0442\u044c \u043f\u0430\u0440\u043e\u043b\u044f \u043d\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043d\u0430","short":"\u041e\u0447\u0435\u043d\u044c \u0441\u043b\u0430\u0431\u044b\u0439","bad":"\u0421\u043b\u0430\u0431\u044b\u0439","good":"\u0421\u0440\u0435\u0434\u043d\u0438\u0439","strong":"\u041d\u0430\u0434\u0451\u0436\u043d\u044b\u0439","mismatch":"\u041d\u0435\u0441\u043e\u0432\u043f\u0430\u0434\u0435\u043d\u0438\u0435"};
+</script>
+<script id='password-strength-meter-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2022-02-12 16:36:33+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);","lang":"ru"},"%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code.":["%1$s \u0443\u0441\u0442\u0430\u0440\u0435\u043b\u0430 \u0441 \u0432\u0435\u0440\u0441\u0438\u0438 %2$s! \u0412\u043c\u0435\u0441\u0442\u043e \u043d\u0435\u0451 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435 %3$s. \u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0440\u0430\u0441\u0441\u043c\u043e\u0442\u0440\u0438\u0442\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u044c \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u0438\u044f \u0431\u043e\u043b\u0435\u0435 \u0438\u043d\u043a\u043b\u044e\u0437\u0438\u0432\u043d\u043e\u0433\u043e \u043a\u043e\u0434\u0430."]}},"comment":{"reference":"wp-admin\/js\/password-strength-meter.js"}} );
+</script>
+<script src='http://samskrtam.ru/wp-admin/js/password-strength-meter.min.js?ver=5.9.2' id='password-strength-meter-js'></script>
+<script src='http://samskrtam.ru/wp-includes/js/underscore.min.js?ver=1.13.1' id='underscore-js'></script>
+<script id='wp-util-js-extra'>
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+</script>
+<script src='http://samskrtam.ru/wp-includes/js/wp-util.min.js?ver=5.9.2' id='wp-util-js'></script>
+<script id='user-profile-js-extra'>
+var userProfileL10n = {"user_id":"0","nonce":"46774dfc72"};
+</script>
+<script id='user-profile-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", {"translation-revision-date":"2022-02-12 16:36:33+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);","lang":"ru"},"Your new password has not been saved.":["\u0412\u0430\u0448 \u043d\u043e\u0432\u044b\u0439 \u043f\u0430\u0440\u043e\u043b\u044c \u043d\u0435 \u0431\u044b\u043b \u0441\u043e\u0445\u0440\u0430\u043d\u0451\u043d."],"Hide":["\u0421\u043a\u0440\u044b\u0442\u044c"],"Show":["\u041f\u043e\u043a\u0430\u0437\u0430\u0442\u044c"],"Confirm use of weak password":["\u0420\u0430\u0437\u0440\u0435\u0448\u0438\u0442\u044c \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435 \u0441\u043b\u0430\u0431\u043e\u0433\u043e \u043f\u0430\u0440\u043e\u043b\u044f."],"Hide password":["\u0421\u043a\u0440\u044b\u0442\u044c \u043f\u0430\u0440\u043e\u043b\u044c"],"Show password":["\u041f\u043e\u043a\u0430\u0437\u0430\u0442\u044c \u043f\u0430\u0440\u043e\u043b\u044c"]}},"comment":{"reference":"wp-admin\/js\/user-profile.js"}} );
+</script>
+<script src='http://samskrtam.ru/wp-admin/js/user-profile.min.js?ver=5.9.2' id='user-profile-js'></script>
+	<div class="clear"></div>
+	</body>
+	</html>
+	
